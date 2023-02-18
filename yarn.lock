@@ -776,7 +776,7 @@
     csstype "^3.1.1"
     prop-types "^15.8.1"
 
-"@mui/styles@^5.11.1":
+"@mui/styles@^5.11.9":
   version "5.11.9"
   resolved "https://registry.yarnpkg.com/@mui/styles/-/styles-5.11.9.tgz#b71022c904bceba64234f97c0b2e8e7012d4183d"
   integrity sha512-AWur9Cx5IQ/FWHEpsHU78pNRelGiJLr4jHu+M3PT0rC9w5n7tjMT8oEdaZKPt1bYUiRvkLC/vpNH+E8ov8gXxA==
@@ -1085,7 +1085,7 @@ ansi-styles@^3.2.1:
   dependencies:
     color-convert "^1.9.0"
 
-antd@^5.1.0:
+antd@^5.2.1:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/antd/-/antd-5.2.1.tgz#96ee27776bf920fc89a508d3db4da6554b396973"
   integrity sha512-yuTeYEhfvsEjHdPwhb47GXBk9EHZ/pHDaUgJMXHhOUbaWPWnTliHtQwgHYMJT9rEZobi3O0YRP2wnYWVtbDGsw==
